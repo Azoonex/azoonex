@@ -29,7 +29,6 @@ Coding artisan with a Persian touch! 🌟 Transforming ideas into captivating us
 <a href="http://www.github.com/abasSolver"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abasSolver&stroke=facc15&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=facc15&currStreakLabel=3382ed&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
 <a href="https://github.com/abasSolver" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abasSolver&langs_count=10&title_color=3382ed&text_color=facc15&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
+[![trophy](https://github-profile-trophy.vercel.app/?username=abasSolver)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
