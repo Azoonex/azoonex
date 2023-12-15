@@ -1,8 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is amir abas
 =================================================================================================================================
+<img align="center" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
+#  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 Crafting Experiences Through Code Front-end Wizard at Work
-----------------------------------------------------------
+
 
 Coding artisan with a Persian touch! 🌟 Transforming ideas into captivating user interfaces. Passionate about crafting seamless experiences that blend innovation and elegance. Dedicated to the art of front-end development, I weave code into visual poetry. Let's build a digital masterpiece together! 💻✨
 
@@ -33,3 +35,5 @@ Coding artisan with a Persian touch! 🌟 Transforming ideas into captivating us
 [![trophy](https://github-profile-trophy.vercel.app/?username=abasSolver)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
+<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
