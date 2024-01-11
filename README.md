@@ -10,8 +10,8 @@ Coding artisan with a Persian touch! 🌟 Transforming ideas into captivating us
 
 * 🌍  I'm based in iran:shiraz
 * ✉️  You can contact me at [x3job2@gamil.com](mailto:x3job2@gamil.com)
-* 🧠  I'm learning React Advanced
-* 🤝  I'm open to collaborating on Project React for TS
+* 🧠  I'm learning NEXT Advanced
+* 🤝  I'm open to collaborating on Project React / NEXT for TS
 
 ### Skills
 
