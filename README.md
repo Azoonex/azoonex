@@ -23,7 +23,6 @@ Coding artisan with a Persian touch! 🌟 Transforming ideas into captivating us
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="36" height="36" /> </a>   
 <a><img src="./remix.png" width="36" height="36" /> </a>   
 <a><img src="./angular.png" width="36" height="36" /> </a>   
-<a><img src="./angular.png" width="36" height="36" /> </a>   
 </p>
 </hr>
 <div height="20px" background="red"></div>
