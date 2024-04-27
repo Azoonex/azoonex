@@ -27,14 +27,13 @@ Coding artisan with a Persian touch! 🌟 Transforming ideas into captivating us
 
 ### Tools 
 <p>
- 
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="36" height="36" /></a>   
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="36" height="36" /></a>  
 <a><img src="./postcss.png" width="36" height="36" /></a>
 <a><img src="./eslint.png" width="36" height="36" /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="36" height="36" /></a>   
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" width="36" height="36" /></a>
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" width="36" height="36"  /></a>   
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="36" height="36" /></a> 
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" width="36" height="36"  /></a>  
 </p>
 
 ### Socials
