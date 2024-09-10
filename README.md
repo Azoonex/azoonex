@@ -52,5 +52,3 @@ Coding artisan with a Persian touch! 🌟 Transforming ideas into captivating us
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Azoonex)](https://github.com/ryo-ma/github-profile-trophy)
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
