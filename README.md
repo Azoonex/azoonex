@@ -22,9 +22,6 @@ Coding artisan with a Persian touch! 🌟 Transforming ideas into captivating us
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="36" height="36" /> </a>    
 <a><img src="./logos--swr.svg" width="36" height="36" /> </a>    
 <a><img src="./react-query.png" width="36" height="36" /> </a>    
-<a><img src="./skill-icons--jest.png" width="36" height="36" /> </a>    
-<a><img src="./skill-icons--vitest-dark.png" width="36" height="36" /> </a>    
-<a><img src="./file-icons--test-react.svg" width="36" height="36" /> </a>    
 <a><img src="./logos--zod.svg" width="36" height="36" /> </a>    
 <a><img src="./simple-icons--formik.svg" width="36" height="36" /> </a>    
 </p>
