@@ -28,7 +28,7 @@ Coding artisan with a Persian touch! 🌟 Transforming ideas into captivating us
 </hr>
 <div height="20px" background="red"></div>
 
-### Tools 
+### Tools :
 <p>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="36" height="36" /></a>   
 <a><img src="./postcss.png" width="36" height="36" /></a>
