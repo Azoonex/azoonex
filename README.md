@@ -51,6 +51,7 @@ Coding artisan with a Persian touch! 🌟 Transforming ideas into captivating us
 <!--  <img class="img" src="https://github-readme-stats.vercel.app/api?username=azoonex&show_icons=true&theme=radical" /> -->
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azoonex&theme=radical&layout=compact" />
 </div>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=azoonex&theme=transparent)](https://git.io/streak-stats)
 
 #  <img src="https://wakatime.com/insights/animated/days.gif" width="50">
