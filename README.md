@@ -50,6 +50,7 @@ Coding artisan with a Persian touch! 🌟 Transforming ideas into captivating us
 <div style="display: flex; flex-direction: row;">
 <!--  <img class="img" src="https://github-readme-stats.vercel.app/api?username=azoonex&show_icons=true&theme=radical" /> -->
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azoonex&theme=radical&layout=compact" />
+   <img src="https://streak-stats.demolab.com?user=azoonex&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 #  <img src="https://wakatime.com/insights/animated/days.gif" width="50">
