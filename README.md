@@ -16,13 +16,6 @@ Coding artisan with a Persian touch! 🌟 Transforming ideas into captivating us
 </hr>
 <div height="20px" background="red"></div>
 
-### Tools :
-<p>
-  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="36" height="36" /></a> 
-
-</p>
-
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Azoonex)](https://github.com/ryo-ma/github-profile-trophy)
 
