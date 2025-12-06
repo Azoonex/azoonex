@@ -18,10 +18,3 @@ Coding artisan with a Persian touch! 🌟 Transforming ideas into captivating us
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Azoonex)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img alt="github contribution grid snake animation" src="./github-user-contribution.svg" style="visibility: visible; max-width: 100%;">
-
-
-<div style="display: flex; flex-direction: row;">
-<!--  <img class="img" src="https://github-readme-stats.vercel.app/api?username=azoonex&show_icons=true&theme=radical" /> -->
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azoonex&theme=radical&layout=compact" />
-<!--    <img src="https://streak-stats.demolab.com?user=azoonex&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  /> -->
-</div>
