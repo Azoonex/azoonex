@@ -18,6 +18,6 @@
 <div height="20px" background="red"></div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Azoonex)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <img alt="github contribution grid snake animation" src="./github-user-contribution.svg" style="visibility: visible; max-width: 100%;">
